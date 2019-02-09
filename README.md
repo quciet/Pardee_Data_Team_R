@@ -13,13 +13,12 @@ Rstudio: Enter the homepage listed above, click on "New" on the upper-right corn
 
 
 
+Notes:
 
-
-
-Both [RStudio](https://www.rstudio.com/) and [IRKernel](https://irkernel.github.io/)
+-1. Both [RStudio](https://www.rstudio.com/) and [IRKernel](https://irkernel.github.io/)
 are installed by default, so you can use either the Jupyter notebook interface or
 the RStudio interface
 
-Check install.R for pre-intalled packages
+-2. Check install.R for pre-intalled packages
 
-R packages are installed from a specific snapshot on date 2019-02-09 from [MRAN](https://mran.microsoft.com/documents/rro/reproducibility)
+-3. R and its packages are installed from a specific snapshot on date 2019-02-09 from [MRAN](https://mran.microsoft.com/documents/rro/reproducibility)
