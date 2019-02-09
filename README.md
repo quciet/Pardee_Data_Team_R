@@ -11,3 +11,5 @@ are installed by default, so you can use either the Jupyter notebook interface o
 the RStudio interface
 
 Check install.R for pre-intalled packages
+
+R packages are installed from a specific snapshot on date 2019-02-09 from [MRAN](https://mran.microsoft.com/documents/rro/reproducibility)
