@@ -1,10 +1,13 @@
 # quick_R_Tutorial_Pardee
 A quick R tutorial for Pardee Center
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quciet/quick_R_Tutorial_Pardee/master)
+R on Jupyter Notebook:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quciet/quick_R_Tutorial_Pardee/master?filepath=R%20Tutorial%201%20Pardee.ipynb)
+
+Rstudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quciet/quick_R_Tutorial_Pardee/master?filepath=rstudio)
 
 
-.. image:: https://mybinder.org/badge_logo.svg
+Both [RStudio](https://www.rstudio.com/) and [IRKernel](https://irkernel.github.io/)
+are installed by default, so you can use either the Jupyter notebook interface or
+the RStudio interface
 
-
-:target: https://mybinder.org/v2/gh/quciet/quick_R_Tutorial_Pardee/master
+Check install.R for pre-intalled packages
